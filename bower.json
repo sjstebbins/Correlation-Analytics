@@ -10,6 +10,12 @@
     "angular-route": "1.2.x",
     "angular-loader": "1.2.x",
     "angular-mocks": "~1.2.x",
-    "html5-boilerplate": "~4.3.0"
+    "html5-boilerplate": "~4.3.0",
+    "angular-c3": "~0.0.7",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "ngFx": "~1.0.5",
+    "moment": "~2.8.4",
+    "datejs": "~1.0.0-rc1"
   }
 }

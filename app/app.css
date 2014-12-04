@@ -28,3 +28,27 @@
   content: "";
   padding: 0;
 }
+
+.error {
+  border: red solid 4px;
+  padding: 10px;
+  margin: 0 10px;
+}
+/*Chart*/
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
